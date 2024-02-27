@@ -1,7 +1,7 @@
 # Algorism
 코딩테스트 알고리즘 특강
 
-| No. | Date | 강의 중 문제풀이 | 과제 | Solution |
+| No. | Date | Mini Task | Main Task | Solution |
 |:---:|:---:|:---:|:---:|:---:|
 | 1 | 2024-02-21 | | | |
 | 2 | 2024-02-22 | | | |
