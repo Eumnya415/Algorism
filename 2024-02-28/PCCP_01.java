@@ -1,3 +1,8 @@
+/**
+[PCCP 모의고사 #2] 1번 - 실습용 로봇
+Date: 2024-02-28
+*/
+
 public class Main {
   // 테스트 코드
     public static void main(String[] args) {
