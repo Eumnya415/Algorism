@@ -1,7 +1,7 @@
 # 알고리즘 과제 (2024-02-26, 4회차 특강)
 ### 1) [PCCP 모의고사 #2] 1번 - 실습용 로봇
 [문제 바로가기](https://school.programmers.co.kr/learn/courses/20848/lessons/255904?language=java) <br>
-[Solution]()
+[Solution](https://github.com/Eumnya415/Algorism/blob/main/2024-02-28/PCCP_01.java)
 
 <br>
 
